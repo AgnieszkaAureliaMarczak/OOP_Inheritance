@@ -19,7 +19,6 @@ public class BankAccount {
         this.customerName = customerName;
         customerEmail = email;
         customerPhoneNumber = phone;
-
     }
 
     public BankAccount(String customerName, String customerEmail, String customerPhoneNumber) {
